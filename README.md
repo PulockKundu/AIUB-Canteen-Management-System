@@ -6,6 +6,19 @@ A Windows Forms desktop application for managing canteen sales, product inventor
 
 Windows Forms desktop application for canteen sales and inventory management built with C#, .NET Framework, ADO.NET, and SQL Server.
 
+**AIUB Canteen Management System | C# Windows Forms Application**  
+Built a desktop-based canteen management system using C#, Windows Forms, ADO.NET, and SQL Server. Implemented role-based login for Admin and Salesman users, product inventory management, cart-based sales processing, invoice generation, and sales history tracking.
+
+## Authors
+1. Pulock Kumar Kundu,
+2. Rezwan Ahmed Prottoy,
+3. Mohammad Ahnaf Ibtahaz
+
+## Supervisor
+Md. Hasibul Hasan,
+ Assistant Professor, Department of Computer Science, AIUB
+
+
 ## Features
 
 - Secure login for Admin and Salesman users
@@ -79,10 +92,6 @@ If your SQL Server name is different, change `.\SQLEXPRESS` to your own server n
 4. Update the database connection string in `App.config`.
 5. Run the project.
 
-## CV Description
-
-**AIUB Canteen Management System | C# Windows Forms Application**  
-Built a desktop-based canteen management system using C#, Windows Forms, ADO.NET, and SQL Server. Implemented role-based login for Admin and Salesman users, product inventory management, cart-based sales processing, invoice generation, and sales history tracking.
 
 ## Notes
 
