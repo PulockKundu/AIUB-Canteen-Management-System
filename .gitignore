@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# .NET generated files
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+*.tmp
+
+# NuGet
+packages/
+*.nupkg
+
+# SQL Server local database files
+*.mdf
+*.ldf
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
